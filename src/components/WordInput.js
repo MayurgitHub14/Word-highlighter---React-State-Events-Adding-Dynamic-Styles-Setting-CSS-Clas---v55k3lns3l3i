@@ -8,4 +8,3 @@ export const WordInput = ({handleChange,value}) => {
         </>
     )
 }
-Footer
